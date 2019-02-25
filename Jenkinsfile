@@ -4,7 +4,7 @@ pipeline {
     stage('build') {
       steps {
         echo 'Hello World'
-        echo 'yoo man is ok?'
+        echo 'yoo man is ok? I think'
        }
       }
      }
